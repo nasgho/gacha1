@@ -56,16 +56,16 @@
     
     "games" : [
         {
-            "name" : "Stair1 Race 3D ",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/StairRace3dTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=506&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "name" : "Stair1 Race ",
+            "ico" : "https://gspro.inw24.com/assets/upload/content/c47fc60304f5e762e05094da90e08b31.png",
+            "link" : "https://showcase.codethislab.com/games/rocking_wheels/",
             "cat" : "Overall",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
-            "name" : "Escape home",
+            "name" : "Gacha Escape home",
             "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg",
             "link" : "https://granny-and-grandpa-4-online.jimrush.repl.co/",
-            "cat" : "Cars",
+            "cat" : "Role Play",
             "orientation" : "0"
         }
 
@@ -113,7 +113,7 @@
 
     "wallpapers" : [
         {
-            "name" : "",
+            "name" : "Gachi",
             "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
         },
         {
@@ -171,7 +171,7 @@
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Welcome to brrokhaven",
+            "name" : "Welcome to gacha outfit ideas",
             "img1" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/DriftDudesTeaser.jpg?v=0.2-53403d9a",
             "img2" : "https://i.gifer.com/ZIZj.gif",
             "part1" : "Welcome Again to our app you will find also wallpapers and more game that will be updated every week",

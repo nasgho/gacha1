@@ -62,44 +62,6 @@
             "cat" : "Overall",
             "orientation" : "1"
         },{
-            "name" : "Buz Tap1 Tip1 Dunk",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TapTapDunkTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/t/tap-tap-dunk/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=f104144c-b96c-43be-98dd-da93b5ba53d8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=535&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Sports",
-            "orientation" : "1"
-        },
-       {
-            "name" : "Bird Rosh",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/BirdyRushTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/b/birdy-rush/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=787f3d68-aff5-42f5-845c-7355950d8d0f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=555&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Puzzle",
-            "orientation" : "1"
-        },
-        {
-            "name" : "Buz Tablie Tennis W0rld Tour",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TableTennis_WorldTour_Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/t/table-tennis-world-tour/v370/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8c8e5fc6-7e38-47ab-96eb-150276e79ef8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=493&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Soccer",
-            "orientation" : "1"
-        },{
-            "name" : "Billiards Classic",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/0/8-ball-billiards-classic/v250/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=82038e98-d4e1-46dd-8de9-1460d1395eab&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=540&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Multi-players",
-            "orientation" : "0"
-        },{
-            "name" : "Crowd1 Ruon 3d",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/_CrowdRun3dTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=541&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "HyperCasual",
-            "orientation" : "0"
-        },{
-            "name" : "World Cup Penalty",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WorldCupPenalty_2018Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/w/world-cup-penalty-2018/v140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=812dd47f-13c0-4a03-8678-00cfab89b971&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=544&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Sport",
-            "orientation" : "0"
-        },{
             "name" : "Advanture1 Driver",
             "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg",
             "link" : "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=542&original_ref=https%3A%2F%2Fgames.famobi.com%2F",

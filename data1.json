@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "",
-            "network" : "fan",
+            "network" : "",
 
             "unity_game_id" : "",
             "unity_int" : "",
@@ -15,17 +15,17 @@
             "admob_native" : "",
             "admob_int" : "",
 
-            "yandex_ban" : "R-M-2119489-2",
-            "yandex_native" : "R-M-2119489-3",
-            "yandex_int" : "R-M-2119489-1",
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
 
             "iron_key": "",
             "iron_ban" : "",
             "iron_int" : "",
 
-            "max_ban" : "63625eca48cb04be",
-            "max_native" : "15d37e6c62aa03e2",
-            "max_int" : "67acfcdf01be77d5",
+            "max_ban" : "",
+            "max_native" : "",
+            "max_int" : "",
 
              "fan_ban": "",
             "fan_native": "",
